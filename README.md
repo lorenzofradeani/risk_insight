@@ -366,7 +366,7 @@ Accogliamo contributi dalla community!
 
 ### Segnalare Bug
 
-Usa [GitHub Issues](https://github.com/tuousername/risk_insight/issues) con:
+Usa [GitHub Issues](https://github.com/lorenzofradeani/risk_insight/issues) con:
 - Descrizione dettagliata del problema
 - Steps per riprodurre
 - Environment (OS, Python version, browser)
@@ -415,9 +415,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ## 👨‍💻 Autore e Crediti
 
-**rstarttt**
-- 🐙 GitHub: [@rstarttt](https://github.com/rstarttt)
-- 📧 Email: rstart@outlook.it
+**Lorenzo Fradeani**
+- 🌐 Website: [lorenzofradeani.com](https://lorenzofradeani.com)
+- 📧 Email: contact@lorenzofradeani.com
+- 🐙 GitHub: [@lorenzofradeani](https://github.com/lorenzofradeani)
 
 <div align="center">
 
@@ -426,6 +427,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ---
 
 **Risk Assessment Dashboard** • Gestione Professionale dei Rischi di Progetto  
-*Developed with ❤️ by [rstarttt](https://github.com/rstarttt)*
+*Developed with ❤️ by [Lorenzo Fradeani](https://lorenzofradeani.com)*
 
 </div>
